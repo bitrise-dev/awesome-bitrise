@@ -64,6 +64,8 @@ Here you will find everything you need to help you start your **[Bitrise](https:
 - [Verified Steps on Bitrise: Accelerate mobile development with Bitrise integrations](https://www.youtube.com/watch?v=mp2iyvJq__Q&list=PLbKJc0NMPDrBtbVmMFRBbo56wPG3o8B8L)
 - [Webinars](https://www.youtube.com/watch?v=qz9XiLnkTrY&list=PLbKJc0NMPDrDj-7MB2QrKvoYxB3Un1oEz)
 - [Customer Success Stories](https://www.youtube.com/watch?v=aO4VP3Gjp7w&list=PLbKJc0NMPDrCiOTtwdu5T4E9dI7Un2ygo)
+- [The Road to MobileDevTestOps - Kobiton Odyssey 2021](https://www.youtube.com/watch?v=ddgwQlL_RBk)
+- 
 
 
 ### Official Announcements
@@ -133,10 +135,15 @@ Access all the recorded webinars from [here](https://www.bitrise.io/community/we
 > Links below are from community sources, websites, and channels.
 
 ### Community Videos
+- [Culture first... - The Untold Story of Bitrise](https://www.youtube.com/watch?v=Q3QtHQdAlDc)
 - [Bitrise User Group](https://www.youtube.com/watch?v=SI8rQp8HaQU&list=PLbKJc0NMPDrBWFHrFRYPQvi2LN9aGy3hy)
 - [Our community](https://www.youtube.com/watch?v=fyuOEK9VDT8&list=PLbKJc0NMPDrDZj7fZn6m40CSPzFFsEpL-)
 - [Community Creations](https://www.youtube.com/watch?v=Ca2PSPK1hXs&list=PLbKJc0NMPDrDSWbPpzmxgEMvYuEx3-qqY)
 - [Tips & Tricks for Mobile Developers](https://www.youtube.com/playlist?list=PLbKJc0NMPDrAXSRa07LI2fo69DWonQti3)
+- [The Road to Mobile DevOps for Android - Android Worldwide](https://www.youtube.com/watch?v=DqvmMi8wKkg)
+- [Scale-up Mobile UI Tests -  Google Cloud Budapes](https://www.youtube.com/watch?v=SqYSongXukA)
+- [Continuous Testing and Mobile DevOps - Continuous Testing Meetup Berlin](https://www.youtube.com/watch?v=8IdeUJdx8Xg)
+- [Scale-up iOS Automated UI Tests - iOS Conf SG 2022](https://www.youtube.com/watch?v=GhexZke-grA)
 
 ### Community Articles
 
