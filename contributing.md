@@ -8,6 +8,7 @@ This resource was made by the developers and hackers alike! We appreciate and re
 
 - [Adding to the list](#adding-to-the-list)
 - [To remove from the list](#to-remove-from-the-list)
+- [Contributors](#contributors)
 
 ## Adding to the List
 
@@ -17,3 +18,7 @@ This resource was made by the developers and hackers alike! We appreciate and re
 ## Removing from the List
 
 - If you have any issues accessing any of the resources listed here, please let us know.
+
+## Contributors
+
+- [Moataz Nabil](https://github.com/moatazeldebsy)
