@@ -50,6 +50,16 @@ Here you will find everything you need to help you start your **[Bitrise](https:
 - [How to skip code freezes and release with confidence instead](https://www.bitrise.io/downloads/code-freezes-in-mobile-shopping)
 
 ### Official Videos
+- [Working at Bitrise](https://www.youtube.com/playlist?list=PLbKJc0NMPDrAD5gLEpPxrJEhhyhJD_NUO)
+- [Bitrise Tutorials](https://www.youtube.com/watch?v=7vluGcDNfEA&list=PLbKJc0NMPDrDZ1EMV8Oa5lVRHmyGEfLj2)
+- [Bitrise: Where great mobile apps are made](https://www.youtube.com/watch?v=tLtZrV9e0Qo&list=PLbKJc0NMPDrCBM_uB029jcdk-5Wp0tTSa)
+- [Build Insights](https://www.youtube.com/watch?v=3PIrOy_vyEY&list=PLbKJc0NMPDrD5W37sNLD72Mzq0fI_efc0)
+- [Bitrise Feature Updates](https://www.youtube.com/playlist?list=PLbKJc0NMPDrC68HEane5XvyuCUWPFoa6e)
+- [Mobile DevOps is a Thing! | PODCAST](https://www.youtube.com/watch?v=C6n8qurRhmc&list=PLbKJc0NMPDrA7iAkerG9CoqA-8pR5Foql)
+- [The road to #WWDC2021](https://www.youtube.com/watch?v=GHTcfENP3XM&list=PLbKJc0NMPDrAFqAhPPUkCRzvBTlraB5p-)
+- [Mobile apps at scale](https://www.youtube.com/watch?v=HrUTfurQE2M&list=PLbKJc0NMPDrB5_mPzh1S63AjjN4yYGE-5)
+- [Verified Steps on Bitrise: Accelerate mobile development with Bitrise integrations](https://www.youtube.com/watch?v=mp2iyvJq__Q&list=PLbKJc0NMPDrBtbVmMFRBbo56wPG3o8B8L)
+
 
 
 ### Official Announcements Articles
@@ -99,6 +109,10 @@ Here you will find everything you need to help you start your **[Bitrise](https:
 > Links below are from community sources, websites, and channels.
 
 ### Community Videos
+- [Bitrise User Group](https://www.youtube.com/watch?v=SI8rQp8HaQU&list=PLbKJc0NMPDrBWFHrFRYPQvi2LN9aGy3hy)
+- [Our community](https://www.youtube.com/watch?v=fyuOEK9VDT8&list=PLbKJc0NMPDrDZj7fZn6m40CSPzFFsEpL-)
+- [Community Creations](https://www.youtube.com/watch?v=Ca2PSPK1hXs&list=PLbKJc0NMPDrDSWbPpzmxgEMvYuEx3-qqY)
+- [Tips & Tricks for Mobile Developers](https://www.youtube.com/playlist?list=PLbKJc0NMPDrAXSRa07LI2fo69DWonQti3)
 
 ### Community Articles
 
