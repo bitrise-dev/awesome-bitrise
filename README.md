@@ -50,6 +50,8 @@ Here you will find everything you need to help you start your **[Bitrise](https:
 
 
 ### Official Repositories and Tools
+- [Official GitHub Repository](https://github.com/bitrise-io)
+- [Bitrise Code Samples and Examples](https://github.com/bitrise-dev)
 
 ### Official Forums and Feedback
 
@@ -79,3 +81,4 @@ Here you will find everything you need to help you start your **[Bitrise](https:
 ### Community Forums
 
 ### Community Slack
+- [Slack Channel](https://chat.bitrise.io/)
