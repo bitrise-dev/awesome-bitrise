@@ -20,8 +20,40 @@ Here you will find everything you need to help you start your **[Bitrise](https:
   - [Official Podcasts](#Official-Podcasts)
 - [Community](#Community)
   - [Videos](#Community-Videos)
-  - [Podcasts](#Community-Podcasts)
   - [Articles](#Community-Articles)
   - [Tools](#Community-Tools)
   - [Repositories](#Community-Repositories)
   - [Slack](#Community-Slack)
+
+
+## Official
+
+> Links below are from official Bitrise sources, websites, and channels.
+
+### Official Docs
+
+### Official Videos
+
+### Official Announcements and Articles
+
+### Official Repositories and Tools
+
+### Official Forums and Feedback
+
+### Official Podcasts
+
+## Community
+
+> Links below are from community sources, websites, and channels.
+
+### Community Videos
+
+### Community Articles
+
+### Community Tools
+
+### Community Repositories
+
+### Community Forums
+
+### Community Slack
