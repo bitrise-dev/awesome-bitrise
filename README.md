@@ -141,7 +141,7 @@ Access all the recorded webinars from [here](https://www.bitrise.io/community/we
 
 ### Community Repositories
 
-### Community Forums and Feedback
+### Community Forums
 - [Twitter Community](https://twitter.com/i/communities/1506649813705797640)
 
 ### Community and Support
