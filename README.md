@@ -32,17 +32,31 @@ Here you will find everything you need to help you start your **[Bitrise](https:
 
 ### Official Docs
 - [Bitrise documentation](https://devcenter.bitrise.io/)
-
+- [Knowledge Base](https://support.bitrise.io/hc/en-us/categories/360000108597-Knowledge-Data-Base-)
 
 ### Official Videos
 
-### Official Announcements and Articles
+
+### Official Announcements Articles
+[Announcements](https://support.bitrise.io/hc/en-us/sections/360005429678-Announcements)
+
+### Official Articles
+
 
 ### Official Repositories and Tools
 
 ### Official Forums and Feedback
 
-### Official Podcasts
+### Official Podcasts - Mobile DevOps is a thing!
+- 
+
+> Mobile DevOps is a thing! is also available on these platforms
+- [Apple Podcast](https://podcasts.apple.com/us/podcast/mobile-devops-is-a-thing/id1506647132?uo=4)
+- [Google Podcast](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy8xMjJiNGExNC9wb2RjYXN0L3Jzcw==)
+- [Spotify](https://open.spotify.com/show/1T7xhZIYqANaXu1UOKrBg8)
+- [Stitcher](https://www.stitcher.com/show/mobile-devops-is-a-thing)
+- [PocketCasts](https://pca.st/2sirqyml)
+- [RadioPublic](https://radiopublic.com/mobile-devops-is-a-thing-WxbLe7)
 
 ## Community
 
