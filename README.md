@@ -34,6 +34,12 @@ Here you will find everything you need to help you start your **[Bitrise](https:
 - [Bitrise documentation](https://devcenter.bitrise.io/)
 - [Knowledge Base](https://support.bitrise.io/hc/en-us/categories/360000108597-Knowledge-Data-Base-)
 
+### Business and Tech Reports
+- [Mobile Product Success in Finance and Banking report, 2022 edition](https://www.bitrise.io/downloads/mobile-product-success-in-finance-report-2022)
+- ["Mobile Product Success in Shopping, 2021",  report](https://go.bitrise.io/downloads/state-of-mobile-shopping-apps-2021)
+- [How mobile release trains drive speed and quality for the world's biggest apps](https://www.bitrise.io/downloads/release-train)
+- [Maximizing mobile engineering efficiency through Gen2 and Velocity: a benchmark report](https://www.bitrise.io/downloads/mobile-engineering-efficiency-gen2-report)
+
 ### Official Videos
 
 
@@ -47,7 +53,8 @@ Here you will find everything you need to help you start your **[Bitrise](https:
 - [Mobile DevOps](https://blog.bitrise.io/categories/mobile-devops)
 - [Releases](https://blog.bitrise.io/categories/releases)
 - [Community](https://blog.bitrise.io/categories/community)
-
+- [Bitrise Japanese](https://blog.bitrise.io/language/japanese)
+- [Bitrise Hungarian](https://blog.bitrise.io/language/magyar)
 
 ### Official Repositories and Tools
 - [Official GitHub Repository](https://github.com/bitrise-io)
