@@ -57,9 +57,11 @@ Here you will find everything you need to help you start your **[Bitrise](https:
 - [Bitrise Feature Updates](https://www.youtube.com/playlist?list=PLbKJc0NMPDrC68HEane5XvyuCUWPFoa6e)
 - [Mobile DevOps is a Thing! | PODCAST](https://www.youtube.com/watch?v=C6n8qurRhmc&list=PLbKJc0NMPDrA7iAkerG9CoqA-8pR5Foql)
 - [The road to #WWDC2021](https://www.youtube.com/watch?v=GHTcfENP3XM&list=PLbKJc0NMPDrAFqAhPPUkCRzvBTlraB5p-)
+- [Google IO 2021](https://www.youtube.com/watch?v=czItZuchiSA&list=PLbKJc0NMPDrCyHiPE-VRo9OcAxyQ5TxmW)
 - [Mobile apps at scale](https://www.youtube.com/watch?v=HrUTfurQE2M&list=PLbKJc0NMPDrB5_mPzh1S63AjjN4yYGE-5)
 - [Verified Steps on Bitrise: Accelerate mobile development with Bitrise integrations](https://www.youtube.com/watch?v=mp2iyvJq__Q&list=PLbKJc0NMPDrBtbVmMFRBbo56wPG3o8B8L)
-
+- [Webinars](https://www.youtube.com/watch?v=qz9XiLnkTrY&list=PLbKJc0NMPDrDj-7MB2QrKvoYxB3Un1oEz)
+- [Customer Success Stories](https://www.youtube.com/watch?v=aO4VP3Gjp7w&list=PLbKJc0NMPDrCiOTtwdu5T4E9dI7Un2ygo)
 
 
 ### Official Announcements Articles
