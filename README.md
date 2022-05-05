@@ -67,7 +67,7 @@ Here you will find everything you need to help you start your **[Bitrise](https:
 - [The Road to MobileDevTestOps - Kobiton Odyssey 2021](https://www.youtube.com/watch?v=ddgwQlL_RBk)
 
 ### Official Announcements
-[Announcements](https://support.bitrise.io/hc/en-us/sections/360005429678-Announcements)
+- [Announcements](https://support.bitrise.io/hc/en-us/sections/360005429678-Announcements)
 
 ### Official Articles - (Categories)
 - [https://www.bitrise.io/customer-stories](https://www.bitrise.io/customer-stories)
