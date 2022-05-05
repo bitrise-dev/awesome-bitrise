@@ -82,6 +82,9 @@ Here you will find everything you need to help you start your **[Bitrise](https:
 ### Official Repositories and Tools
 - [Official GitHub Repository](https://github.com/bitrise-io)
 - [Bitrise Code Samples and Examples](https://github.com/bitrise-dev)
+- [Bitrise Integration Steps](https://www.bitrise.io/integrations/steps/)
+- [Bitrise CLI](https://app.bitrise.io/cli)
+- [Bitrise Partner Program](https://www.bitrise.io/partnership)
 
 ### Official Forums
 - [Bitrise Discussions](https://discuss.bitrise.io/categories)
@@ -138,8 +141,11 @@ Access all the recorded webinars from [here](https://www.bitrise.io/community/we
 
 ### Community Repositories
 
-### Community Forums
+### Community Forums and Feedback
 - [Twitter Community](https://twitter.com/i/communities/1506649813705797640)
 
-### Community Slack
+### Community and Support
+- [Bitrise Experts Program](https://www.bitrise.io/community/experts-program)
+- [Bitrise Japanese Community](https://www.bitrise.io/community/japanese-community-hub)
 - [Slack Channel](https://chat.bitrise.io/)
+- [Bitrise for nonprofit organizations](https://www.bitrise.io/community/bitrise-for-nonprofit)
