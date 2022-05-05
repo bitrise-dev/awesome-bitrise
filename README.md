@@ -65,13 +65,12 @@ Here you will find everything you need to help you start your **[Bitrise](https:
 - [Webinars](https://www.youtube.com/watch?v=qz9XiLnkTrY&list=PLbKJc0NMPDrDj-7MB2QrKvoYxB3Un1oEz)
 - [Customer Success Stories](https://www.youtube.com/watch?v=aO4VP3Gjp7w&list=PLbKJc0NMPDrCiOTtwdu5T4E9dI7Un2ygo)
 - [The Road to MobileDevTestOps - Kobiton Odyssey 2021](https://www.youtube.com/watch?v=ddgwQlL_RBk)
-- 
-
 
 ### Official Announcements
 [Announcements](https://support.bitrise.io/hc/en-us/sections/360005429678-Announcements)
 
 ### Official Articles - (Categories)
+- [https://www.bitrise.io/customer-stories](https://www.bitrise.io/customer-stories)
 - [Company](https://blog.bitrise.io/categories/company)
 - [App development](https://blog.bitrise.io/categories/app-development)
 - [Insights](https://blog.bitrise.io/categories/insights)
