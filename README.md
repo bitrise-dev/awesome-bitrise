@@ -31,6 +31,8 @@ Here you will find everything you need to help you start your **[Bitrise](https:
 > Links below are from official Bitrise sources, websites, and channels.
 
 ### Official Docs
+- [Bitrise documentation](https://devcenter.bitrise.io/)
+
 
 ### Official Videos
 
