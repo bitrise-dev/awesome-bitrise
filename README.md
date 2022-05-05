@@ -73,7 +73,18 @@ Here you will find everything you need to help you start your **[Bitrise](https:
 - [Bitrise Discussions](https://discuss.bitrise.io/categories)
 
 ### Official Podcasts - Mobile DevOps is a thing!
-- 
+- [What does mobile development look like in a leading UK bank? — with NatWest's Adam Law](https://anchor.fm/bitrise/episodes/Building-a-mobile-app-for-a-leading-bank-with-Adam-Law-from-NatWest-e1gh80f/a-a7m3694)
+- [All about test automation: tools and best practices with Angie Jones](https://anchor.fm/bitrise/episodes/All-about-test-automation-tools-and-best-practices-with-Angie-Jones-e1bcdj5/a-a7213jk)
+- [The roadmap to mobile success with Peter-John Welcome](https://anchor.fm/bitrise/episodes/The-roadmap-to-mobile-success-with-Peter-John-Welcome-e172kds/a-a6g3vlt)
+- [Mastering continuous deployment with Keegan Rush](https://anchor.fm/bitrise/episodes/Mastering-continuous-deployment-with-Keegan-Rush-e14e0hf/a-a64nj2o)
+- [Build secure mobile applications with Anastasiia Voitova](https://anchor.fm/bitrise/episodes/Build-secure-mobile-applications-with-Anastasiia-Voitova-e121fob/a-a5oocrg)
+- [Building mobile infrastructure with Russell Stephens](https://anchor.fm/bitrise/episodes/Building-mobile-infrastructure-with-Russell-Stephens-esn3sl/a-a4ut7og)
+- [App Performance Monitoring with Rasmus Larsson](https://anchor.fm/bitrise/episodes/App-Performance-Monitoring-with-Rasmus-Larsson-en5g40/a-a404brt)
+- [Fintech, Flutter, and tech leadership with GDE Mariano Zorrilla](https://anchor.fm/bitrise/episodes/Fintech--Flutter--and-tech-leadership-with-GDE-Mariano-Zorrilla-eja20f/a-a362gu7)
+- [Optimizing iOS workflows with Marcos Griselli](https://anchor.fm/bitrise/episodes/Optimizing-iOS-workflows-with-Marcos-Griselli-ehim5p/a-a2rjgmi)
+- [How to level up your team’s skill set with John Sundell](https://anchor.fm/bitrise/episodes/How-to-level-up-your-teams-skill-set-with-John-Sundell-eg324v/a-a2j6cfd)
+- [Remote work & Mobile DevOps with Joe Birch](https://anchor.fm/bitrise/episodes/Remote-work--Mobile-DevOps-with-Joe-Birch-ee7gh8/a-a27qrpt)
+- [Does mobile need its own DevOps? with Vladimir Ivanov](https://anchor.fm/bitrise/episodes/Does-mobile-need-its-own-DevOps--with-Vladimir-Ivanov-ecarmi/a-a1rfm79)
 
 > Mobile DevOps is a thing! is also available on these platforms
 - [Apple Podcast](https://podcasts.apple.com/us/podcast/mobile-devops-is-a-thing/id1506647132?uo=4)
