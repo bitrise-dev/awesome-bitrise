@@ -169,7 +169,7 @@ Access all the recorded webinars from [here](https://www.bitrise.io/community/we
 - [Building (almost) anything on Bitrise using Docker](https://www.oliverbinns.co.uk/2020/07/03/building-almost-anything-on-bitrise-using-docker/)
 
 ### Community Tools
-- [Bitrise Integration Steps](https://github.com/bitrise-io/bitrise-steplib/tree/master/steps)
+- More than 330 [Bitrise Integration Steps](https://github.com/bitrise-io/bitrise-steplib/tree/master/steps)
 
 ### Community Repositories
 - [Bitrise Repository](https://github.com/search?q=bitrise)
