@@ -26,7 +26,7 @@ Here you will find everything you need to help you start your **[Bitrise](https:
   - [Articles](#Community-Articles)
   - [Tools](#Community-Tools)
   - [Repositories](#Community-Repositories)
-  - [Slack](#Community-Slack)
+  - [Community and Support](#Community-and-Support)
 
 
 ## Official
