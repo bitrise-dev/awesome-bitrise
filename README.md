@@ -37,9 +37,16 @@ Here you will find everything you need to help you start your **[Bitrise](https:
 
 ### Business and Tech Reports
 - [Mobile Product Success in Finance and Banking report, 2022 edition](https://www.bitrise.io/downloads/mobile-product-success-in-finance-report-2022)
+- [Mobile Product Success in Finance and Banking report, 2022 edition - Japanese edition](https://www.bitrise.io/downloads/japan-mobile-product-success-in-finance-report-2022)
 - ["Mobile Product Success in Shopping, 2021",  report](https://go.bitrise.io/downloads/state-of-mobile-shopping-apps-2021)
 - [How mobile release trains drive speed and quality for the world's biggest apps](https://www.bitrise.io/downloads/release-train)
-- [Maximizing mobile engineering efficiency through Gen2 and Velocity: a benchmark report](https://www.bitrise.io/downloads/mobile-engineering-efficiency-gen2-report)
+- [Maximizing mobile engineering efficiency through Gen2 and Velocity](https://www.bitrise.io/downloads/mobile-engineering-efficiency-gen2-report)
+- [Maximizing mobile engineering efficiency through Gen2 and Velocity - Japanese edition](https://www.bitrise.io/downloads/gen2-report-japan)
+- [The 5 main benefits of switching from Jenkins to cloud CI](https://www.bitrise.io/downloads/5-benefits-switching-from-jenkins?utm_source=website&utm_medium=whitepapers&utm_campaign=Jenkins2021)
+- [Mobile CI after Jenkins — 6 lessons learned](https://www.bitrise.io/downloads/mobile-ci-after-jenkins)
+- [Mobile CI after Jenkins — 6 lessons learned - Japanese edition](https://www.bitrise.io/downloads/mobile-ci-after-jenkins-6-lessons-jp?utm_source=website&utm_medium=whitepapers&utm_campaign=Jenkins2021)
+- [How finance and banking challengers develop and win on mobile](https://www.bitrise.io/downloads/mobile-finance-and-banking-report-2020)
+- [How to skip code freezes and release with confidence instead](https://www.bitrise.io/downloads/code-freezes-in-mobile-shopping)
 
 ### Official Videos
 
