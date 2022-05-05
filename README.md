@@ -83,6 +83,7 @@ Here you will find everything you need to help you start your **[Bitrise](https:
 
 ### Official Repositories and Tools
 - [Official GitHub Repository](https://github.com/bitrise-io)
+- [Workflow Recipes](https://github.com/bitrise-io/workflow-recipes)
 - [Bitrise StepLib](https://github.com/bitrise-io/bitrise-steplibBitrise StepLib)
 - [Bitrise Webhooks](https://github.com/bitrise-io/bitrise-webhooks)
 - [Bitrise Workflow Editor](https://github.com/bitrise-io/bitrise-workflow-editor)
