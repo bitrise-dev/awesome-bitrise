@@ -66,7 +66,7 @@ Here you will find everything you need to help you start your **[Bitrise](https:
 - [Customer Success Stories](https://www.youtube.com/watch?v=aO4VP3Gjp7w&list=PLbKJc0NMPDrCiOTtwdu5T4E9dI7Un2ygo)
 
 
-### Official Announcements Articles
+### Official Announcements
 [Announcements](https://support.bitrise.io/hc/en-us/sections/360005429678-Announcements)
 
 ### Official Articles - (Categories)
