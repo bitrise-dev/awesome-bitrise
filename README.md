@@ -81,6 +81,9 @@ Here you will find everything you need to help you start your **[Bitrise](https:
 
 ### Official Repositories and Tools
 - [Official GitHub Repository](https://github.com/bitrise-io)
+- [Bitrise StepLib](https://github.com/bitrise-io/bitrise-steplibBitrise StepLib)
+- [Bitrise Webhooks](https://github.com/bitrise-io/bitrise-webhooks)
+- [Bitrise Workflow Editor](https://github.com/bitrise-io/bitrise-workflow-editor)
 - [Bitrise Code Samples and Examples](https://github.com/bitrise-dev)
 - [Bitrise Integration Steps](https://www.bitrise.io/integrations/steps/)
 - [Bitrise CLI](https://app.bitrise.io/cli)
@@ -138,8 +141,14 @@ Access all the recorded webinars from [here](https://www.bitrise.io/community/we
 ### Community Articles
 
 ### Community Tools
+- [Bitrise Integration Steps](https://github.com/bitrise-io/bitrise-steplib/tree/master/steps)
 
 ### Community Repositories
+- [Bitrise Repository](https://github.com/search?q=bitrise)
+- [Curated list of bitrise projects](https://github.com/jaswanthm/cool-bitrise-projects)
+- [Unofficial Client iOS app for bitrise.io](https://github.com/toshi0383/Bitrise-iOS)
+- [Unofficial Bitrise client for Android](https://github.com/stanwood/Bitrise_Android)
+
 
 ### Community Forums
 - [Twitter Community](https://twitter.com/i/communities/1506649813705797640)
