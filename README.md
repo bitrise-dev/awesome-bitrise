@@ -55,7 +55,7 @@ Here you will find everything you need to help you start your **[Bitrise](https:
 ### Official Announcements Articles
 [Announcements](https://support.bitrise.io/hc/en-us/sections/360005429678-Announcements)
 
-### Official Articles
+### Official Articles - (Categories)
 - [Company](https://blog.bitrise.io/categories/company)
 - [App development](https://blog.bitrise.io/categories/app-development)
 - [Insights](https://blog.bitrise.io/categories/insights)
