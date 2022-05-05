@@ -6,3 +6,22 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list
 Here you will find everything you need to help you start your **[Bitrise](https://www.bitrise.io/)** journey and quickly get up and running when it comes to building, testing, and deploying that empowers mobile developers around the world.
 
 > Community [contributions](contributing.md) are most welcome! Feel free to submit a **pull request** with any adds/removes/changes to content!
+
+
+## Contents
+
+- [Official](#Official)
+  - [Docs](#Official-Docs)
+  - [Videos](#Official-Videos)
+  - [Announcements and Articles](#Official-Announcements-and-Articles)
+  - [Reports](#Official-Reports)
+  - [Repositories and Tools](#Official-Repositories-and-Tools)
+  - [Forums and Feedback](#Official-Forums-and-Feedback)
+  - [Official Podcasts](#Official-Podcasts)
+- [Community](#Community)
+  - [Videos](#Community-Videos)
+  - [Podcasts](#Community-Podcasts)
+  - [Articles](#Community-Articles)
+  - [Tools](#Community-Tools)
+  - [Repositories](#Community-Repositories)
+  - [Slack](#Community-Slack)
