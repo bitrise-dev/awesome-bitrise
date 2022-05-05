@@ -34,6 +34,7 @@ Here you will find everything you need to help you start your **[Bitrise](https:
 ### Official Docs
 - [Bitrise documentation](https://devcenter.bitrise.io/)
 - [Knowledge Base](https://support.bitrise.io/hc/en-us/categories/360000108597-Knowledge-Data-Base-)
+- [Support Center](https://support.bitrise.io/hc/en-us)
 
 ### Business and Tech Reports
 - [Mobile Product Success in Finance and Banking report, 2022 edition](https://www.bitrise.io/downloads/mobile-product-success-in-finance-report-2022)
@@ -68,7 +69,8 @@ Here you will find everything you need to help you start your **[Bitrise](https:
 - [Official GitHub Repository](https://github.com/bitrise-io)
 - [Bitrise Code Samples and Examples](https://github.com/bitrise-dev)
 
-### Official Forums and Feedback
+### Official Forums
+- [Bitrise Discussions](https://discuss.bitrise.io/categories)
 
 ### Official Podcasts - Mobile DevOps is a thing!
 - 
@@ -94,6 +96,7 @@ Here you will find everything you need to help you start your **[Bitrise](https:
 ### Community Repositories
 
 ### Community Forums
+- [Twitter Community](https://twitter.com/i/communities/1506649813705797640)
 
 ### Community Slack
 - [Slack Channel](https://chat.bitrise.io/)
