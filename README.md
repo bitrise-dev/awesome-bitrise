@@ -70,7 +70,7 @@ Here you will find everything you need to help you start your **[Bitrise](https:
 - [Announcements](https://support.bitrise.io/hc/en-us/sections/360005429678-Announcements)
 
 ### Official Articles - (Categories)
-- [https://www.bitrise.io/customer-stories](https://www.bitrise.io/customer-stories)
+- [Customer Stories](https://www.bitrise.io/customer-stories)
 - [Company](https://blog.bitrise.io/categories/company)
 - [App development](https://blog.bitrise.io/categories/app-development)
 - [Insights](https://blog.bitrise.io/categories/insights)
