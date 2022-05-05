@@ -38,7 +38,7 @@ Here you will find everything you need to help you start your **[Bitrise](https:
 - [Knowledge Base](https://support.bitrise.io/hc/en-us/categories/360000108597-Knowledge-Data-Base-)
 - [Support Center](https://support.bitrise.io/hc/en-us)
 
-### Business and Tech Reports
+### Official Business and Tech Reports
 - [Mobile Product Success in Finance and Banking report, 2022 edition](https://www.bitrise.io/downloads/mobile-product-success-in-finance-report-2022)
 - [Mobile Product Success in Finance and Banking report, 2022 edition - Japanese edition](https://www.bitrise.io/downloads/japan-mobile-product-success-in-finance-report-2022)
 - ["Mobile Product Success in Shopping, 2021",  report](https://go.bitrise.io/downloads/state-of-mobile-shopping-apps-2021)
