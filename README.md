@@ -19,6 +19,8 @@ Here you will find everything you need to help you start your **[Bitrise](https:
   - [Repositories and Tools](#Official-Repositories-and-Tools)
   - [Forums and Feedback](#Official-Forums-and-Feedback)
   - [Official Podcasts](#Official-Podcasts)
+  - [Events](#Events)
+  - [Webinars](#Recorded-Webinars)
 - [Community](#Community)
   - [Videos](#Community-Videos)
   - [Articles](#Community-Articles)
@@ -105,6 +107,20 @@ Here you will find everything you need to help you start your **[Bitrise](https:
 - [Stitcher](https://www.stitcher.com/show/mobile-devops-is-a-thing)
 - [PocketCasts](https://pca.st/2sirqyml)
 - [RadioPublic](https://radiopublic.com/mobile-devops-is-a-thing-WxbLe7)
+
+### Events
+One of our favorite activities here at Bitrise is to travel the world and meet our customers or attend and sponsors virtual/online events. Make sure you check out our next destination and join us so you don’t miss out on our swags!
+
+- [Upcoming and Previous Events](https://www.bitrise.io/community/events)
+
+### Recorded Webinars
+Access all the recorded webinars from [here](https://www.bitrise.io/community/webinars)
+
+- ["The state of mobile shopping apps in 2021"](https://www.bitrise.io/webinar/state-of-mobile-shopping-apps-2021-webinar)
+- [Building Mobile Apps at Scale: 39 Engineering Challenges webinar](https://www.bitrise.io/thank-you/building-mobile-apps-at-scale-webinar)
+- [AppGallery and Bitrise: 1 Step, 30 Minutes, Millions of Extra Users](https://go.bitrise.io/webinar/deploy-to-appgallery-with-bitrise?utm_source=webinarspage&utm_medium=web&utm_campaign=deploy-to-appgallery-webinar)
+- [WWDC 2021: Expectations vs. Reality — Recap discussion with iOS experts](https://www.youtube.com/watch?v=bL9-sGfFluM)
+ 
 
 ## Community
 
