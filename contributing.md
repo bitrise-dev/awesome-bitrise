@@ -22,3 +22,4 @@ This resource was made by the developers and hackers alike! We appreciate and re
 ## Contributors
 
 - [Moataz Nabil](https://github.com/moatazeldebsy)
+- [Matheus dos Reis de Jesus](https://github.com/reisdev)
