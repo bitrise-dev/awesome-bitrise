@@ -16,21 +16,24 @@ Here you will find everything you need to help you start your **[Bitrise](https:
 ## Contents
 
 - [Official](#Official)
-  - [Docs](#Official-Docs)
-  - [Business and Tech Reports](#Official-Business-and-Tech-Reports)
-  - [Videos](#Official-Videos)
   - [Announcements and Articles](#Official-Announcements-and-Articles)
-  - [Repositories and Tools](#Official-Repositories-and-Tools)
+  - [Business and Tech Reports](#Official-Business-and-Tech-Reports)
+  - [Docs](#Official-Docs)
+  - [Events](#Events)
   - [Forums and Feedback](#Official-Forums-and-Feedback)
   - [Official Podcasts](#Official-Podcasts)
-  - [Events](#Events)
+  - [Official Podcasts](#Official-Podcasts)
+  - [Repositories and Tools](#Official-Repositories-and-Tools)
+  - [Videos](#Official-Videos)
   - [Webinars](#Recorded-Webinars)
+
 - [Community](#Community)
-  - [Videos](#Community-Videos)
+  
   - [Articles](#Community-Articles)
-  - [Tools](#Community-Tools)
-  - [Repositories](#Community-Repositories)
   - [Community and Support](#Community-and-Support)
+  - [Repositories](#Community-Repositories)
+  - [Tools](#Community-Tools)
+  - [Videos](#Community-Videos)
 
 
 ## Official
