@@ -175,6 +175,7 @@ Access all the recorded webinars from [here](https://www.bitrise.io/community/we
 - [iOS build, test and deliver using Bitrise — Part 2[TEST]](https://lihao6485.medium.com/ios-build-test-and-deliver-using-bitrise-part-2-test-94c7bc56adc3)
 - [Keeping Secrets Safe in Android Projects](https://infinum.com/the-capsized-eight/secrets-android-projects)
 - [React Native — CD in Bitrise [Part I — iOS]](https://medium.com/mobile-reality/react-native-cd-in-bitrise-part-i-ios-586756755569)
+- [Saving Time Using Bitrise Workflows in Your Android Projects](https://betterprogramming.pub/saving-time-using-bitrise-workflows-in-android-projects-77f1d535d902)
 - [25 Bitrise Integration Steps You Should Know for iOS Apps](https://www.linkedin.com/pulse/25-bitrise-integration-steps-you-should-know-ios-apps-moataz-nabil/)
 
 ### Community Tools
