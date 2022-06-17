@@ -167,6 +167,7 @@ Access all the recorded webinars from [here](https://www.bitrise.io/community/we
 - [Deploy to Huawei AppGallery — Verified Bitrise Step](https://medium.com/huawei-developers/deploy-to-huawei-appgallery-verified-bitrise-step-f4cec6c2b036)
 - [Firebase TestLab Continuous UI testing in Android using Bitrise](https://wise4rmgodadmob.medium.com/firebase-testlab-continuous-ui-testing-in-android-using-bitrise-c96b73536604)
 - [Getting Started with Bitrise: The Definitive Guide](https://medium.com/backenders-club/getting-started-with-bitrise-the-definitive-guide-e4a9c10d6fae)
+- [How to simplify the deployment of an iOS application using Bitrise](https://nerdzlab.com/how-to-simplify-the-deployment-of-an-ios-application-using-bitrise)
 - [How to Setup Bitrise to Build and Upload a React Native App to Apple App Store Connect](https://www.bluelabellabs.com/blog/bitrise-react-native-apple-app-store-connect/)
 - [How to Set up CI/CD Pipelines for Flutter in Bitrise](https://medium.com/tribalscale/how-to-set-up-ci-cd-pipelines-for-flutter-in-bitrise-3f27b1599562)
 - [How to UI Test Push Notifications and Universal Links in the iOS Simulator](https://medium.com/compass-true-north/how-to-ui-test-push-notifications-and-universal-links-in-the-ios-simulator-81cc43b33f81)
