@@ -162,6 +162,7 @@ Access all the recorded webinars from [here](https://www.bitrise.io/community/we
 - [Building (almost) anything on Bitrise using Docker](https://www.oliverbinns.co.uk/2020/07/03/building-almost-anything-on-bitrise-using-docker/)
 - [Build a Flutter Android app and deploy it to Google Play using Bitrise CI/CD platform](https://medium.com/geekculture/build-a-flutter-android-app-and-deploy-it-to-google-play-using-bitrise-ci-cd-platform-68de0612ede)
 - [Caching with Bitrise and React Native – a Post Mortem](https://blog.mayflower.de/10622-bitrise-caching-react-native.html)
+- [Code Coverage with SonarQube and Bitrise for Swift](https://engineering.monstar-lab.com/en/post/2022/07/22/Code-Coverage-with-SonarQube-and-Bitrise-for-Swift/)
 - [Continuous Delivery in iOS Apps using Bitrise](https://medium.com/plus-minus-one/continuous-delivery-in-ios-apps-using-bitrise-2b0deac3e16a)
 - [Continuous Integration in iOS Apps using Bitrise](https://medium.com/plus-minus-one/continuous-integration-in-ios-apps-using-bitrise-f461137daefd)
 - [Deploy to Huawei AppGallery — Verified Bitrise Step](https://medium.com/huawei-developers/deploy-to-huawei-appgallery-verified-bitrise-step-f4cec6c2b036)
